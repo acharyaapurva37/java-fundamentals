@@ -1,3 +1,5 @@
+// Console-based Student Result Management System
+// Built to practice core Java fundamentals
 package StudentManagementSystem;
 
 import java.util.ArrayList;
